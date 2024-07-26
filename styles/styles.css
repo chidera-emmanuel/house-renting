@@ -112,7 +112,7 @@
 .feature-bar4 {
   background: #e2f1e8;
   margin: 100px, 100px;
-  height: 190px;
+  /* height: 190px; */
   padding: 25px;
   margin-right: 20px;
   border-radius: 25px;
@@ -215,7 +215,7 @@
 
   .feature-bar4 {
     margin: 100px, 100px;
-    height: 190px;
+    /* height: 190px; */
     padding: 70px;
     padding-right: 130px;
     margin-bottom: 20px;
@@ -325,10 +325,8 @@
 
   .feature-bar4 {
     margin: 100px, 100px;
-    height: 190px;
+    /* height: 190px; */
     padding: 20px;
-    padding-bottom: 5px;
-    padding-right: 130px;
     margin-bottom: 20px;
     font-size: large;
   }
